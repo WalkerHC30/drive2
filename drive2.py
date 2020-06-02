@@ -7,3 +7,8 @@ if country == '台灣':
 		print('您可以開車!!')
 	else :
 		print('您不可以開車!!')
+elif country == '美國':
+	if age >= 16:
+		print('您可以開車!')
+	else:
+		print('您不可以開車!')
